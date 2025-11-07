@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+venv/
+.env
+ops/deploy.vars
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# keys and pem
+*.pem
